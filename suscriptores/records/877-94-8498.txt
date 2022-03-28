@@ -1,0 +1,21 @@
+
+[16/03/2022 22:51:34]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 33.8, ritmo cardiaco: 122, presión arterial: 129, dispositivo: 35858075
+[16/03/2022 22:51:39]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 35.2, ritmo cardiaco: 118, presión arterial: 121, dispositivo: 35858075
+[16/03/2022 22:51:45]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 36.1, ritmo cardiaco: 122, presión arterial: 126, dispositivo: 35858075
+[16/03/2022 22:51:50]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 35.4, ritmo cardiaco: 72, presión arterial: 121, dispositivo: 35858075
+[16/03/2022 22:51:55]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 35.7, ritmo cardiaco: 104, presión arterial: 135, dispositivo: 35858075
+[16/03/2022 22:52:00]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 37.5, ritmo cardiaco: 120, presión arterial: 161, dispositivo: 35858075
+[16/03/2022 22:52:06]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 37.9, ritmo cardiaco: 123, presión arterial: 104, dispositivo: 35858075
+[16/03/2022 22:52:11]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 38.1, ritmo cardiaco: 92, presión arterial: 168, dispositivo: 35858075
+[16/03/2022 22:52:17]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 37.2, ritmo cardiaco: 94, presión arterial: 198, dispositivo: 35858075
+[16/03/2022 22:52:22]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 37.0, ritmo cardiaco: 80, presión arterial: 114, dispositivo: 35858075
+[16/03/2022 22:52:27]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 35.0, ritmo cardiaco: 85, presión arterial: 176, dispositivo: 35858075
+[16/03/2022 22:52:33]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 36.4, ritmo cardiaco: 101, presión arterial: 123, dispositivo: 35858075
+[16/03/2022 22:52:38]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 36.7, ritmo cardiaco: 126, presión arterial: 179, dispositivo: 35858075
+[16/03/2022 22:52:43]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 36.7, ritmo cardiaco: 141, presión arterial: 144, dispositivo: 35858075
+[16/03/2022 22:52:48]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 33.2, ritmo cardiaco: 105, presión arterial: 118, dispositivo: 35858075
+[16/03/2022 22:52:54]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 34.7, ritmo cardiaco: 98, presión arterial: 160, dispositivo: 35858075
+[16/03/2022 22:52:59]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 38.4, ritmo cardiaco: 136, presión arterial: 172, dispositivo: 35858075
+[16/03/2022 22:53:04]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 33.3, ritmo cardiaco: 98, presión arterial: 173, dispositivo: 35858075
+[16/03/2022 22:53:10]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 34.7, ritmo cardiaco: 111, presión arterial: 152, dispositivo: 35858075
+[16/03/2022 22:53:15]: Emily Reeves... ssn: 877-94-8498, edad: 92, temperatura: 35.7, ritmo cardiaco: 116, presión arterial: 199, dispositivo: 35858075

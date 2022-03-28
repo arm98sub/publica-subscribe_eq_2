@@ -1,0 +1,21 @@
+
+[16/03/2022 22:51:33]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 36.7, ritmo cardiaco: 143, presión arterial: 141, dispositivo: 98521198
+[16/03/2022 22:51:38]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 37.5, ritmo cardiaco: 103, presión arterial: 189, dispositivo: 98521198
+[16/03/2022 22:51:44]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 35.8, ritmo cardiaco: 138, presión arterial: 178, dispositivo: 98521198
+[16/03/2022 22:51:49]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 36.5, ritmo cardiaco: 76, presión arterial: 100, dispositivo: 98521198
+[16/03/2022 22:51:54]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 38.7, ritmo cardiaco: 85, presión arterial: 105, dispositivo: 98521198
+[16/03/2022 22:51:59]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 33.4, ritmo cardiaco: 127, presión arterial: 112, dispositivo: 98521198
+[16/03/2022 22:52:05]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 34.7, ritmo cardiaco: 74, presión arterial: 127, dispositivo: 98521198
+[16/03/2022 22:52:10]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 34.9, ritmo cardiaco: 85, presión arterial: 127, dispositivo: 98521198
+[16/03/2022 22:52:16]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 37.4, ritmo cardiaco: 138, presión arterial: 108, dispositivo: 98521198
+[16/03/2022 22:52:21]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 34.5, ritmo cardiaco: 111, presión arterial: 122, dispositivo: 98521198
+[16/03/2022 22:52:26]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 35.4, ritmo cardiaco: 143, presión arterial: 107, dispositivo: 98521198
+[16/03/2022 22:52:31]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 33.5, ritmo cardiaco: 76, presión arterial: 155, dispositivo: 98521198
+[16/03/2022 22:52:37]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 34.3, ritmo cardiaco: 108, presión arterial: 187, dispositivo: 98521198
+[16/03/2022 22:52:42]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 33.8, ritmo cardiaco: 86, presión arterial: 165, dispositivo: 98521198
+[16/03/2022 22:52:47]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 34.5, ritmo cardiaco: 82, presión arterial: 158, dispositivo: 98521198
+[16/03/2022 22:52:53]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 37.7, ritmo cardiaco: 68, presión arterial: 143, dispositivo: 98521198
+[16/03/2022 22:52:58]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 33.5, ritmo cardiaco: 70, presión arterial: 128, dispositivo: 98521198
+[16/03/2022 22:53:03]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 35.0, ritmo cardiaco: 124, presión arterial: 106, dispositivo: 98521198
+[16/03/2022 22:53:08]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 36.2, ritmo cardiaco: 124, presión arterial: 151, dispositivo: 98521198
+[16/03/2022 22:53:14]: Michael Hebert... ssn: 451-46-7744, edad: 110, temperatura: 35.8, ritmo cardiaco: 120, presión arterial: 149, dispositivo: 98521198
