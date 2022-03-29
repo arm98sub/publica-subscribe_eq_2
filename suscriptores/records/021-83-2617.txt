@@ -1,0 +1,18 @@
+
+[24/03/2022 17:01:11]: Mary Howell... ssn: 021-83-2617, edad: 112, temperatura: 33.6, ritmo cardiaco: 97, presión arterial: 169, dispositivo: 55532033
+[24/03/2022 17:01:14]: Mary Howell... ssn: 021-83-2617, edad: 112, temperatura: 38.0, ritmo cardiaco: 128, presión arterial: 124, dispositivo: 55532033
+[24/03/2022 17:01:17]: Mary Howell... ssn: 021-83-2617, edad: 112, temperatura: 34.4, ritmo cardiaco: 105, presión arterial: 130, dispositivo: 55532033
+[24/03/2022 17:01:20]: Mary Howell... ssn: 021-83-2617, edad: 112, temperatura: 37.5, ritmo cardiaco: 89, presión arterial: 190, dispositivo: 55532033
+[24/03/2022 17:01:23]: Mary Howell... ssn: 021-83-2617, edad: 112, temperatura: 38.3, ritmo cardiaco: 61, presión arterial: 111, dispositivo: 55532033
+[24/03/2022 17:01:26]: Mary Howell... ssn: 021-83-2617, edad: 112, temperatura: 37.6, ritmo cardiaco: 132, presión arterial: 100, dispositivo: 55532033
+[24/03/2022 17:01:30]: Mary Howell... ssn: 021-83-2617, edad: 112, temperatura: 38.8, ritmo cardiaco: 119, presión arterial: 135, dispositivo: 55532033
+[24/03/2022 17:01:33]: Mary Howell... ssn: 021-83-2617, edad: 112, temperatura: 38.5, ritmo cardiaco: 126, presión arterial: 123, dispositivo: 55532033
+[24/03/2022 17:01:36]: Mary Howell... ssn: 021-83-2617, edad: 112, temperatura: 33.1, ritmo cardiaco: 121, presión arterial: 196, dispositivo: 55532033
+[24/03/2022 17:01:39]: Mary Howell... ssn: 021-83-2617, edad: 112, temperatura: 34.3, ritmo cardiaco: 73, presión arterial: 114, dispositivo: 55532033
+[24/03/2022 17:01:42]: Mary Howell... ssn: 021-83-2617, edad: 112, temperatura: 33.3, ritmo cardiaco: 71, presión arterial: 138, dispositivo: 55532033
+[24/03/2022 17:01:45]: Mary Howell... ssn: 021-83-2617, edad: 112, temperatura: 37.4, ritmo cardiaco: 109, presión arterial: 159, dispositivo: 55532033
+[24/03/2022 17:01:48]: Mary Howell... ssn: 021-83-2617, edad: 112, temperatura: 34.3, ritmo cardiaco: 137, presión arterial: 190, dispositivo: 55532033
+[24/03/2022 17:01:52]: Mary Howell... ssn: 021-83-2617, edad: 112, temperatura: 36.0, ritmo cardiaco: 75, presión arterial: 168, dispositivo: 55532033
+[24/03/2022 17:01:55]: Mary Howell... ssn: 021-83-2617, edad: 112, temperatura: 33.7, ritmo cardiaco: 124, presión arterial: 137, dispositivo: 55532033
+[24/03/2022 17:01:58]: Mary Howell... ssn: 021-83-2617, edad: 112, temperatura: 38.3, ritmo cardiaco: 142, presión arterial: 142, dispositivo: 55532033
+[24/03/2022 17:02:01]: Mary Howell... ssn: 021-83-2617, edad: 112, temperatura: 37.9, ritmo cardiaco: 65, presión arterial: 110, dispositivo: 55532033

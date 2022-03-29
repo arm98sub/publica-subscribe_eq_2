@@ -54,4 +54,6 @@ class Timer:
         """
         
         self.numero_random = random.randint(8, 1000)
+        self.dosis = random.choice(['10mg', '20mg', '5mg'])
+        
         self.medicine = random.choice(['Paracetamol', 'Dipirona magnésica', 'Dipirona hioscina', 'Tramadol', 'Antidepresivo', 'Aspirina', 'Antiarritmico', 'Diuretico'])

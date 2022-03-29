@@ -46,6 +46,6 @@ class Accelerometer:
         """
         
         self.ejeX = random.randint(-20,20)
-        self.ejeY = random.randint(-20,20)
+        self.ejeY = random.randint(0,10)
         self.ejeZ = random.randint(-20,20)
         

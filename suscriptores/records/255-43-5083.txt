@@ -1,0 +1,9 @@
+
+[28/03/2022 16:06:13]: Christopher Stewart... ssn: 255-43-5083, edad: 118, temperatura: 33.9, ritmo cardiaco: 131, presión arterial: 180, dispositivo: 13468153
+[28/03/2022 16:06:17]: Christopher Stewart... ssn: 255-43-5083, edad: 118, temperatura: 37.3, ritmo cardiaco: 112, presión arterial: 198, dispositivo: 13468153
+[28/03/2022 16:06:21]: Christopher Stewart... ssn: 255-43-5083, edad: 118, temperatura: 37.0, ritmo cardiaco: 86, presión arterial: 197, dispositivo: 13468153
+[28/03/2022 16:06:26]: Christopher Stewart... ssn: 255-43-5083, edad: 118, temperatura: 37.4, ritmo cardiaco: 146, presión arterial: 190, dispositivo: 13468153
+[28/03/2022 16:06:30]: Christopher Stewart... ssn: 255-43-5083, edad: 118, temperatura: 34.9, ritmo cardiaco: 101, presión arterial: 141, dispositivo: 13468153
+[28/03/2022 16:06:34]: Christopher Stewart... ssn: 255-43-5083, edad: 118, temperatura: 33.2, ritmo cardiaco: 136, presión arterial: 138, dispositivo: 13468153
+[28/03/2022 16:06:39]: Christopher Stewart... ssn: 255-43-5083, edad: 118, temperatura: 37.9, ritmo cardiaco: 64, presión arterial: 130, dispositivo: 13468153
+[28/03/2022 16:06:43]: Christopher Stewart... ssn: 255-43-5083, edad: 118, temperatura: 37.7, ritmo cardiaco: 104, presión arterial: 138, dispositivo: 13468153

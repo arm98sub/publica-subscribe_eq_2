@@ -1,0 +1,9 @@
+
+[28/03/2022 16:06:14]: Thomas Mccoy... ssn: 738-46-3302, edad: 112, temperatura: 34.1, ritmo cardiaco: 118, presión arterial: 134, dispositivo: 37791772
+[28/03/2022 16:06:18]: Thomas Mccoy... ssn: 738-46-3302, edad: 112, temperatura: 33.4, ritmo cardiaco: 62, presión arterial: 190, dispositivo: 37791772
+[28/03/2022 16:06:22]: Thomas Mccoy... ssn: 738-46-3302, edad: 112, temperatura: 35.3, ritmo cardiaco: 106, presión arterial: 141, dispositivo: 37791772
+[28/03/2022 16:06:27]: Thomas Mccoy... ssn: 738-46-3302, edad: 112, temperatura: 34.7, ritmo cardiaco: 113, presión arterial: 191, dispositivo: 37791772
+[28/03/2022 16:06:31]: Thomas Mccoy... ssn: 738-46-3302, edad: 112, temperatura: 38.8, ritmo cardiaco: 148, presión arterial: 103, dispositivo: 37791772
+[28/03/2022 16:06:35]: Thomas Mccoy... ssn: 738-46-3302, edad: 112, temperatura: 34.7, ritmo cardiaco: 115, presión arterial: 173, dispositivo: 37791772
+[28/03/2022 16:06:40]: Thomas Mccoy... ssn: 738-46-3302, edad: 112, temperatura: 35.3, ritmo cardiaco: 66, presión arterial: 102, dispositivo: 37791772
+[28/03/2022 16:06:44]: Thomas Mccoy... ssn: 738-46-3302, edad: 112, temperatura: 36.9, ritmo cardiaco: 95, presión arterial: 119, dispositivo: 37791772

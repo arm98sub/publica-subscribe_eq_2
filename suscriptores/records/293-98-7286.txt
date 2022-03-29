@@ -1,0 +1,21 @@
+
+[29/03/2022 15:29:50]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 36.6, ritmo cardiaco: 64, presión arterial: 148, dispositivo: 47067036
+[29/03/2022 15:29:55]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 35.6, ritmo cardiaco: 140, presión arterial: 139, dispositivo: 47067036
+[29/03/2022 15:30:00]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 35.2, ritmo cardiaco: 110, presión arterial: 187, dispositivo: 47067036
+[29/03/2022 15:30:06]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 35.6, ritmo cardiaco: 121, presión arterial: 128, dispositivo: 47067036
+[29/03/2022 15:30:11]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 35.4, ritmo cardiaco: 148, presión arterial: 101, dispositivo: 47067036
+[29/03/2022 15:30:17]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 38.6, ritmo cardiaco: 60, presión arterial: 170, dispositivo: 47067036
+[29/03/2022 15:30:22]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 33.7, ritmo cardiaco: 71, presión arterial: 133, dispositivo: 47067036
+[29/03/2022 15:30:28]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 33.8, ritmo cardiaco: 71, presión arterial: 115, dispositivo: 47067036
+[29/03/2022 15:30:33]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 35.8, ritmo cardiaco: 81, presión arterial: 154, dispositivo: 47067036
+[29/03/2022 15:30:39]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 36.6, ritmo cardiaco: 60, presión arterial: 174, dispositivo: 47067036
+[29/03/2022 15:30:44]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 37.3, ritmo cardiaco: 127, presión arterial: 169, dispositivo: 47067036
+[29/03/2022 15:30:50]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 33.2, ritmo cardiaco: 126, presión arterial: 192, dispositivo: 47067036
+[29/03/2022 15:30:55]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 38.6, ritmo cardiaco: 96, presión arterial: 105, dispositivo: 47067036
+[29/03/2022 15:31:01]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 34.1, ritmo cardiaco: 136, presión arterial: 163, dispositivo: 47067036
+[29/03/2022 15:31:06]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 33.0, ritmo cardiaco: 126, presión arterial: 189, dispositivo: 47067036
+[29/03/2022 15:31:11]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 37.9, ritmo cardiaco: 84, presión arterial: 139, dispositivo: 47067036
+[29/03/2022 15:31:17]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 36.2, ritmo cardiaco: 108, presión arterial: 147, dispositivo: 47067036
+[29/03/2022 15:31:22]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 37.9, ritmo cardiaco: 73, presión arterial: 107, dispositivo: 47067036
+[29/03/2022 15:31:28]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 38.0, ritmo cardiaco: 64, presión arterial: 116, dispositivo: 47067036
+[29/03/2022 15:31:33]: Terri Perkins... ssn: 293-98-7286, edad: 62, temperatura: 34.5, ritmo cardiaco: 86, presión arterial: 194, dispositivo: 47067036

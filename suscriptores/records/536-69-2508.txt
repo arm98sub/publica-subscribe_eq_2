@@ -1,0 +1,21 @@
+
+[29/03/2022 15:25:55]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 34.0, ritmo cardiaco: 104, presión arterial: 147, dispositivo: 69518162
+[29/03/2022 15:25:58]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 33.6, ritmo cardiaco: 100, presión arterial: 119, dispositivo: 69518162
+[29/03/2022 15:26:01]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 38.2, ritmo cardiaco: 94, presión arterial: 111, dispositivo: 69518162
+[29/03/2022 15:26:05]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 34.6, ritmo cardiaco: 116, presión arterial: 127, dispositivo: 69518162
+[29/03/2022 15:26:08]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 36.2, ritmo cardiaco: 107, presión arterial: 180, dispositivo: 69518162
+[29/03/2022 15:26:11]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 37.3, ritmo cardiaco: 131, presión arterial: 117, dispositivo: 69518162
+[29/03/2022 15:26:14]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 38.5, ritmo cardiaco: 109, presión arterial: 175, dispositivo: 69518162
+[29/03/2022 15:26:18]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 38.7, ritmo cardiaco: 107, presión arterial: 144, dispositivo: 69518162
+[29/03/2022 15:26:21]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 38.3, ritmo cardiaco: 73, presión arterial: 148, dispositivo: 69518162
+[29/03/2022 15:26:24]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 37.5, ritmo cardiaco: 64, presión arterial: 168, dispositivo: 69518162
+[29/03/2022 15:26:28]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 35.0, ritmo cardiaco: 136, presión arterial: 169, dispositivo: 69518162
+[29/03/2022 15:26:31]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 34.3, ritmo cardiaco: 78, presión arterial: 183, dispositivo: 69518162
+[29/03/2022 15:26:34]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 38.3, ritmo cardiaco: 134, presión arterial: 198, dispositivo: 69518162
+[29/03/2022 15:26:37]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 37.0, ritmo cardiaco: 129, presión arterial: 145, dispositivo: 69518162
+[29/03/2022 15:26:41]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 33.9, ritmo cardiaco: 132, presión arterial: 112, dispositivo: 69518162
+[29/03/2022 15:26:44]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 35.8, ritmo cardiaco: 72, presión arterial: 118, dispositivo: 69518162
+[29/03/2022 15:26:47]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 37.3, ritmo cardiaco: 149, presión arterial: 159, dispositivo: 69518162
+[29/03/2022 15:26:50]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 37.4, ritmo cardiaco: 85, presión arterial: 167, dispositivo: 69518162
+[29/03/2022 15:26:54]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 34.6, ritmo cardiaco: 79, presión arterial: 110, dispositivo: 69518162
+[29/03/2022 15:26:57]: Laura Mccarthy... ssn: 536-69-2508, edad: 111, temperatura: 35.7, ritmo cardiaco: 118, presión arterial: 114, dispositivo: 69518162

@@ -1,0 +1,21 @@
+
+[29/03/2022 15:18:50]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 35.8, ritmo cardiaco: 146, presión arterial: 134, dispositivo: 96393403
+[29/03/2022 15:18:55]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 34.5, ritmo cardiaco: 64, presión arterial: 143, dispositivo: 96393403
+[29/03/2022 15:18:59]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 33.6, ritmo cardiaco: 139, presión arterial: 188, dispositivo: 96393403
+[29/03/2022 15:19:03]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 36.1, ritmo cardiaco: 111, presión arterial: 169, dispositivo: 96393403
+[29/03/2022 15:19:07]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 35.5, ritmo cardiaco: 109, presión arterial: 101, dispositivo: 96393403
+[29/03/2022 15:19:12]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 34.0, ritmo cardiaco: 107, presión arterial: 122, dispositivo: 96393403
+[29/03/2022 15:19:16]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 36.6, ritmo cardiaco: 102, presión arterial: 147, dispositivo: 96393403
+[29/03/2022 15:19:20]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 36.2, ritmo cardiaco: 121, presión arterial: 135, dispositivo: 96393403
+[29/03/2022 15:19:25]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 38.0, ritmo cardiaco: 141, presión arterial: 179, dispositivo: 96393403
+[29/03/2022 15:19:29]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 35.3, ritmo cardiaco: 148, presión arterial: 197, dispositivo: 96393403
+[29/03/2022 15:19:33]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 38.0, ritmo cardiaco: 101, presión arterial: 155, dispositivo: 96393403
+[29/03/2022 15:19:38]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 34.7, ritmo cardiaco: 147, presión arterial: 172, dispositivo: 96393403
+[29/03/2022 15:19:42]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 33.3, ritmo cardiaco: 122, presión arterial: 191, dispositivo: 96393403
+[29/03/2022 15:19:47]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 36.2, ritmo cardiaco: 80, presión arterial: 199, dispositivo: 96393403
+[29/03/2022 15:19:51]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 38.8, ritmo cardiaco: 100, presión arterial: 189, dispositivo: 96393403
+[29/03/2022 15:19:56]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 33.9, ritmo cardiaco: 130, presión arterial: 197, dispositivo: 96393403
+[29/03/2022 15:20:00]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 33.0, ritmo cardiaco: 110, presión arterial: 175, dispositivo: 96393403
+[29/03/2022 15:20:04]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 35.0, ritmo cardiaco: 91, presión arterial: 178, dispositivo: 96393403
+[29/03/2022 15:20:09]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 37.4, ritmo cardiaco: 125, presión arterial: 151, dispositivo: 96393403
+[29/03/2022 15:20:13]: Karen Higgins... ssn: 453-13-0976, edad: 106, temperatura: 34.2, ritmo cardiaco: 61, presión arterial: 197, dispositivo: 96393403

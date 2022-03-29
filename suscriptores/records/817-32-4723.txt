@@ -1,0 +1,11 @@
+
+[28/03/2022 16:05:19]: David Bell... ssn: 817-32-4723, edad: 63, temperatura: 34.2, ritmo cardiaco: 63, presión arterial: 198, dispositivo: 88356723
+[28/03/2022 16:05:24]: David Bell... ssn: 817-32-4723, edad: 63, temperatura: 34.3, ritmo cardiaco: 114, presión arterial: 155, dispositivo: 88356723
+[28/03/2022 16:05:29]: David Bell... ssn: 817-32-4723, edad: 63, temperatura: 36.5, ritmo cardiaco: 145, presión arterial: 141, dispositivo: 88356723
+[28/03/2022 16:05:34]: David Bell... ssn: 817-32-4723, edad: 63, temperatura: 35.3, ritmo cardiaco: 142, presión arterial: 189, dispositivo: 88356723
+[28/03/2022 16:05:40]: David Bell... ssn: 817-32-4723, edad: 63, temperatura: 34.8, ritmo cardiaco: 111, presión arterial: 173, dispositivo: 88356723
+[28/03/2022 16:05:45]: David Bell... ssn: 817-32-4723, edad: 63, temperatura: 39.0, ritmo cardiaco: 132, presión arterial: 139, dispositivo: 88356723
+[28/03/2022 16:05:51]: David Bell... ssn: 817-32-4723, edad: 63, temperatura: 33.9, ritmo cardiaco: 137, presión arterial: 104, dispositivo: 88356723
+[28/03/2022 16:05:56]: David Bell... ssn: 817-32-4723, edad: 63, temperatura: 37.1, ritmo cardiaco: 144, presión arterial: 127, dispositivo: 88356723
+[28/03/2022 16:06:02]: David Bell... ssn: 817-32-4723, edad: 63, temperatura: 35.4, ritmo cardiaco: 63, presión arterial: 189, dispositivo: 88356723
+[28/03/2022 16:06:07]: David Bell... ssn: 817-32-4723, edad: 63, temperatura: 38.0, ritmo cardiaco: 81, presión arterial: 199, dispositivo: 88356723

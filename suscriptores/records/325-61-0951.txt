@@ -1,0 +1,11 @@
+
+[28/03/2022 16:05:21]: James Wood... ssn: 325-61-0951, edad: 67, temperatura: 33.4, ritmo cardiaco: 98, presión arterial: 176, dispositivo: 63720353
+[28/03/2022 16:05:26]: James Wood... ssn: 325-61-0951, edad: 67, temperatura: 33.6, ritmo cardiaco: 143, presión arterial: 177, dispositivo: 63720353
+[28/03/2022 16:05:31]: James Wood... ssn: 325-61-0951, edad: 67, temperatura: 33.4, ritmo cardiaco: 67, presión arterial: 174, dispositivo: 63720353
+[28/03/2022 16:05:37]: James Wood... ssn: 325-61-0951, edad: 67, temperatura: 38.5, ritmo cardiaco: 131, presión arterial: 164, dispositivo: 63720353
+[28/03/2022 16:05:42]: James Wood... ssn: 325-61-0951, edad: 67, temperatura: 38.2, ritmo cardiaco: 113, presión arterial: 105, dispositivo: 63720353
+[28/03/2022 16:05:47]: James Wood... ssn: 325-61-0951, edad: 67, temperatura: 33.5, ritmo cardiaco: 91, presión arterial: 117, dispositivo: 63720353
+[28/03/2022 16:05:53]: James Wood... ssn: 325-61-0951, edad: 67, temperatura: 38.1, ritmo cardiaco: 135, presión arterial: 172, dispositivo: 63720353
+[28/03/2022 16:05:58]: James Wood... ssn: 325-61-0951, edad: 67, temperatura: 35.7, ritmo cardiaco: 119, presión arterial: 139, dispositivo: 63720353
+[28/03/2022 16:06:04]: James Wood... ssn: 325-61-0951, edad: 67, temperatura: 35.2, ritmo cardiaco: 146, presión arterial: 100, dispositivo: 63720353
+[28/03/2022 16:06:09]: James Wood... ssn: 325-61-0951, edad: 67, temperatura: 33.9, ritmo cardiaco: 95, presión arterial: 180, dispositivo: 63720353

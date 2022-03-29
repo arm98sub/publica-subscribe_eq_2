@@ -1,0 +1,21 @@
+
+[29/03/2022 15:14:41]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 33.7, ritmo cardiaco: 144, presión arterial: 147, dispositivo: 79519259
+[29/03/2022 15:14:45]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 37.9, ritmo cardiaco: 116, presión arterial: 130, dispositivo: 79519259
+[29/03/2022 15:14:48]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 34.9, ritmo cardiaco: 125, presión arterial: 142, dispositivo: 79519259
+[29/03/2022 15:14:51]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 38.2, ritmo cardiaco: 123, presión arterial: 117, dispositivo: 79519259
+[29/03/2022 15:14:54]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 33.3, ritmo cardiaco: 122, presión arterial: 196, dispositivo: 79519259
+[29/03/2022 15:14:57]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 33.4, ritmo cardiaco: 128, presión arterial: 100, dispositivo: 79519259
+[29/03/2022 15:15:01]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 34.6, ritmo cardiaco: 123, presión arterial: 182, dispositivo: 79519259
+[29/03/2022 15:15:04]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 35.9, ritmo cardiaco: 122, presión arterial: 176, dispositivo: 79519259
+[29/03/2022 15:15:07]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 38.3, ritmo cardiaco: 113, presión arterial: 124, dispositivo: 79519259
+[29/03/2022 15:15:10]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 38.3, ritmo cardiaco: 150, presión arterial: 145, dispositivo: 79519259
+[29/03/2022 15:15:14]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 36.5, ritmo cardiaco: 132, presión arterial: 182, dispositivo: 79519259
+[29/03/2022 15:15:17]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 34.3, ritmo cardiaco: 89, presión arterial: 148, dispositivo: 79519259
+[29/03/2022 15:15:20]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 38.4, ritmo cardiaco: 115, presión arterial: 114, dispositivo: 79519259
+[29/03/2022 15:15:23]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 34.0, ritmo cardiaco: 99, presión arterial: 108, dispositivo: 79519259
+[29/03/2022 15:15:26]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 33.9, ritmo cardiaco: 65, presión arterial: 197, dispositivo: 79519259
+[29/03/2022 15:15:30]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 36.5, ritmo cardiaco: 77, presión arterial: 180, dispositivo: 79519259
+[29/03/2022 15:15:33]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 38.3, ritmo cardiaco: 100, presión arterial: 150, dispositivo: 79519259
+[29/03/2022 15:15:36]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 35.5, ritmo cardiaco: 122, presión arterial: 135, dispositivo: 79519259
+[29/03/2022 15:15:39]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 33.3, ritmo cardiaco: 134, presión arterial: 161, dispositivo: 79519259
+[29/03/2022 15:15:42]: Mackenzie Soto... ssn: 548-02-6560, edad: 94, temperatura: 34.2, ritmo cardiaco: 147, presión arterial: 137, dispositivo: 79519259

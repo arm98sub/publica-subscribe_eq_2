@@ -1,0 +1,21 @@
+
+[29/03/2022 15:25:54]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 33.1, ritmo cardiaco: 146, presión arterial: 172, dispositivo: 39123204
+[29/03/2022 15:25:57]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 36.6, ritmo cardiaco: 129, presión arterial: 136, dispositivo: 39123204
+[29/03/2022 15:26:00]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 36.6, ritmo cardiaco: 146, presión arterial: 172, dispositivo: 39123204
+[29/03/2022 15:26:03]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 37.7, ritmo cardiaco: 91, presión arterial: 189, dispositivo: 39123204
+[29/03/2022 15:26:07]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 37.3, ritmo cardiaco: 71, presión arterial: 127, dispositivo: 39123204
+[29/03/2022 15:26:10]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 38.9, ritmo cardiaco: 80, presión arterial: 145, dispositivo: 39123204
+[29/03/2022 15:26:13]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 38.2, ritmo cardiaco: 118, presión arterial: 154, dispositivo: 39123204
+[29/03/2022 15:26:17]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 37.5, ritmo cardiaco: 63, presión arterial: 148, dispositivo: 39123204
+[29/03/2022 15:26:20]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 38.5, ritmo cardiaco: 74, presión arterial: 134, dispositivo: 39123204
+[29/03/2022 15:26:23]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 33.9, ritmo cardiaco: 107, presión arterial: 110, dispositivo: 39123204
+[29/03/2022 15:26:27]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 35.3, ritmo cardiaco: 105, presión arterial: 137, dispositivo: 39123204
+[29/03/2022 15:26:30]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 34.3, ritmo cardiaco: 78, presión arterial: 124, dispositivo: 39123204
+[29/03/2022 15:26:33]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 35.9, ritmo cardiaco: 60, presión arterial: 156, dispositivo: 39123204
+[29/03/2022 15:26:36]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 35.3, ritmo cardiaco: 67, presión arterial: 150, dispositivo: 39123204
+[29/03/2022 15:26:39]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 37.2, ritmo cardiaco: 63, presión arterial: 167, dispositivo: 39123204
+[29/03/2022 15:26:43]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 35.9, ritmo cardiaco: 84, presión arterial: 198, dispositivo: 39123204
+[29/03/2022 15:26:46]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 34.9, ritmo cardiaco: 104, presión arterial: 192, dispositivo: 39123204
+[29/03/2022 15:26:49]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 37.3, ritmo cardiaco: 105, presión arterial: 175, dispositivo: 39123204
+[29/03/2022 15:26:53]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 37.2, ritmo cardiaco: 86, presión arterial: 177, dispositivo: 39123204
+[29/03/2022 15:26:56]: Karen Mcconnell... ssn: 452-80-6044, edad: 111, temperatura: 38.4, ritmo cardiaco: 70, presión arterial: 141, dispositivo: 39123204

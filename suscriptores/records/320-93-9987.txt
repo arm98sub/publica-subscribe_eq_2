@@ -1,0 +1,21 @@
+
+[29/03/2022 15:18:52]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 34.0, ritmo cardiaco: 61, presión arterial: 194, dispositivo: 39975450
+[29/03/2022 15:18:57]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 37.9, ritmo cardiaco: 68, presión arterial: 116, dispositivo: 39975450
+[29/03/2022 15:19:01]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 39.0, ritmo cardiaco: 150, presión arterial: 185, dispositivo: 39975450
+[29/03/2022 15:19:05]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 38.9, ritmo cardiaco: 134, presión arterial: 129, dispositivo: 39975450
+[29/03/2022 15:19:09]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 36.7, ritmo cardiaco: 150, presión arterial: 167, dispositivo: 39975450
+[29/03/2022 15:19:14]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 34.3, ritmo cardiaco: 76, presión arterial: 166, dispositivo: 39975450
+[29/03/2022 15:19:18]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 34.6, ritmo cardiaco: 104, presión arterial: 194, dispositivo: 39975450
+[29/03/2022 15:19:23]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 33.6, ritmo cardiaco: 97, presión arterial: 105, dispositivo: 39975450
+[29/03/2022 15:19:27]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 35.4, ritmo cardiaco: 79, presión arterial: 142, dispositivo: 39975450
+[29/03/2022 15:19:31]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 37.8, ritmo cardiaco: 96, presión arterial: 171, dispositivo: 39975450
+[29/03/2022 15:19:36]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 34.7, ritmo cardiaco: 122, presión arterial: 123, dispositivo: 39975450
+[29/03/2022 15:19:40]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 36.5, ritmo cardiaco: 147, presión arterial: 165, dispositivo: 39975450
+[29/03/2022 15:19:44]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 37.0, ritmo cardiaco: 131, presión arterial: 199, dispositivo: 39975450
+[29/03/2022 15:19:49]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 37.0, ritmo cardiaco: 90, presión arterial: 179, dispositivo: 39975450
+[29/03/2022 15:19:53]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 34.8, ritmo cardiaco: 106, presión arterial: 111, dispositivo: 39975450
+[29/03/2022 15:19:58]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 38.9, ritmo cardiaco: 131, presión arterial: 165, dispositivo: 39975450
+[29/03/2022 15:20:02]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 36.5, ritmo cardiaco: 61, presión arterial: 142, dispositivo: 39975450
+[29/03/2022 15:20:07]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 37.7, ritmo cardiaco: 70, presión arterial: 137, dispositivo: 39975450
+[29/03/2022 15:20:11]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 35.5, ritmo cardiaco: 142, presión arterial: 118, dispositivo: 39975450
+[29/03/2022 15:20:15]: Jason Hebert... ssn: 320-93-9987, edad: 80, temperatura: 35.8, ritmo cardiaco: 136, presión arterial: 153, dispositivo: 39975450

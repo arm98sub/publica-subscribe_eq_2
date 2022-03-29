@@ -36,10 +36,17 @@ if __name__ == '__main__':
             print()
             # Agregado por Alan para la tarea 1
             if patient.timer.numero_random%8 == 0:
-                print('Hora de Suministrar', patient.timer.medicine, 'al paciente')
+                print('Hora de suministrar ', patient.timer.medicine, ' dosis:', patient.timer.dosis)
                 publish('notifier', patient.to_json())
             print()
-            if patient.accelerometer.ejeX == 20 or patient.accelerometer.ejeY == 20 or patient.accelerometer.ejeZ == -20:
+            
+            # Para la implementación de un acelerómetro simulado es importante considerar que 
+            # estos dispositivos detectan la fuerza de aceleración de un cuerpo en 1, 2 o 3 ejes.
+            
+            # Nota: Esto requiere incluir un sensor de acelerómetro que será asignado a cada uno de los adultos mayores para 
+            # detectar la posición en la que se encuentran durante el día. Esto permitirá detectar caídas.
+
+            if patient.accelerometer.ejeY <= 20 and (patient.accelerometer.ejeX <= 20 or patient.accelerometer.ejeZ <= 20):
                 print('Ya se cayó el paciente!!! ayudaaaaaaaaaaaaaaaaa :O')
                 publish('notifier', patient.to_json())
             print()

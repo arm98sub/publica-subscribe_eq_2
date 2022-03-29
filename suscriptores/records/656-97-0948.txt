@@ -1,0 +1,10 @@
+
+[28/03/2022 16:05:22]: Patricia Lewis... ssn: 656-97-0948, edad: 86, temperatura: 36.8, ritmo cardiaco: 144, presión arterial: 139, dispositivo: 84870303
+[28/03/2022 16:05:27]: Patricia Lewis... ssn: 656-97-0948, edad: 86, temperatura: 34.3, ritmo cardiaco: 128, presión arterial: 122, dispositivo: 84870303
+[28/03/2022 16:05:32]: Patricia Lewis... ssn: 656-97-0948, edad: 86, temperatura: 37.4, ritmo cardiaco: 79, presión arterial: 106, dispositivo: 84870303
+[28/03/2022 16:05:38]: Patricia Lewis... ssn: 656-97-0948, edad: 86, temperatura: 37.5, ritmo cardiaco: 140, presión arterial: 110, dispositivo: 84870303
+[28/03/2022 16:05:43]: Patricia Lewis... ssn: 656-97-0948, edad: 86, temperatura: 38.8, ritmo cardiaco: 118, presión arterial: 174, dispositivo: 84870303
+[28/03/2022 16:05:49]: Patricia Lewis... ssn: 656-97-0948, edad: 86, temperatura: 38.5, ritmo cardiaco: 79, presión arterial: 102, dispositivo: 84870303
+[28/03/2022 16:05:54]: Patricia Lewis... ssn: 656-97-0948, edad: 86, temperatura: 33.2, ritmo cardiaco: 88, presión arterial: 185, dispositivo: 84870303
+[28/03/2022 16:05:59]: Patricia Lewis... ssn: 656-97-0948, edad: 86, temperatura: 34.7, ritmo cardiaco: 79, presión arterial: 165, dispositivo: 84870303
+[28/03/2022 16:06:05]: Patricia Lewis... ssn: 656-97-0948, edad: 86, temperatura: 37.5, ritmo cardiaco: 115, presión arterial: 150, dispositivo: 84870303
