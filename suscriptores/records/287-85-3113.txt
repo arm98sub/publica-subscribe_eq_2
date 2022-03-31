@@ -1,0 +1,30 @@
+
+[31/03/2022 13:25:06]: James King... ssn: 287-85-3113, edad: 84, temperatura: 38.0, ritmo cardiaco: 146, presión arterial: 172, dispositivo: 48415742
+[31/03/2022 13:25:12]: James King... ssn: 287-85-3113, edad: 84, temperatura: 36.3, ritmo cardiaco: 140, presión arterial: 118, dispositivo: 48415742
+[31/03/2022 13:25:12]: James King... ssn: 287-85-3113, edad: 84, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:25:18]: James King... ssn: 287-85-3113, edad: 84, temperatura: 38.0, ritmo cardiaco: 93, presión arterial: 181, dispositivo: 48415742
+[31/03/2022 13:25:18]: James King... ssn: 287-85-3113, edad: 84, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:25:23]: James King... ssn: 287-85-3113, edad: 84, temperatura: 35.4, ritmo cardiaco: 115, presión arterial: 190, dispositivo: 48415742
+[31/03/2022 13:25:23]: James King... ssn: 287-85-3113, edad: 84, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:25:29]: James King... ssn: 287-85-3113, edad: 84, temperatura: 33.3, ritmo cardiaco: 120, presión arterial: 133, dispositivo: 48415742
+[31/03/2022 13:25:35]: James King... ssn: 287-85-3113, edad: 84, temperatura: 36.8, ritmo cardiaco: 123, presión arterial: 195, dispositivo: 48415742
+[31/03/2022 13:25:41]: James King... ssn: 287-85-3113, edad: 84, temperatura: 38.5, ritmo cardiaco: 128, presión arterial: 146, dispositivo: 48415742
+[31/03/2022 13:25:47]: James King... ssn: 287-85-3113, edad: 84, temperatura: 33.7, ritmo cardiaco: 91, presión arterial: 132, dispositivo: 48415742
+[31/03/2022 13:25:52]: James King... ssn: 287-85-3113, edad: 84, temperatura: 38.0, ritmo cardiaco: 98, presión arterial: 165, dispositivo: 48415742
+[31/03/2022 13:25:58]: James King... ssn: 287-85-3113, edad: 84, temperatura: 38.2, ritmo cardiaco: 83, presión arterial: 149, dispositivo: 48415742
+[31/03/2022 13:26:04]: James King... ssn: 287-85-3113, edad: 84, temperatura: 37.0, ritmo cardiaco: 144, presión arterial: 130, dispositivo: 48415742
+[31/03/2022 13:26:04]: James King... ssn: 287-85-3113, edad: 84, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:26:09]: James King... ssn: 287-85-3113, edad: 84, temperatura: 35.8, ritmo cardiaco: 120, presión arterial: 134, dispositivo: 48415742
+[31/03/2022 13:26:09]: James King... ssn: 287-85-3113, edad: 84, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:26:15]: James King... ssn: 287-85-3113, edad: 84, temperatura: 36.5, ritmo cardiaco: 130, presión arterial: 170, dispositivo: 48415742
+[31/03/2022 13:26:21]: James King... ssn: 287-85-3113, edad: 84, temperatura: 35.5, ritmo cardiaco: 77, presión arterial: 126, dispositivo: 48415742
+[31/03/2022 13:26:27]: James King... ssn: 287-85-3113, edad: 84, temperatura: 33.6, ritmo cardiaco: 143, presión arterial: 108, dispositivo: 48415742
+[31/03/2022 13:26:27]: James King... ssn: 287-85-3113, edad: 84, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:26:32]: James King... ssn: 287-85-3113, edad: 84, temperatura: 33.7, ritmo cardiaco: 70, presión arterial: 133, dispositivo: 48415742
+[31/03/2022 13:26:38]: James King... ssn: 287-85-3113, edad: 84, temperatura: 37.2, ritmo cardiaco: 108, presión arterial: 131, dispositivo: 48415742
+[31/03/2022 13:26:38]: James King... ssn: 287-85-3113, edad: 84, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:26:44]: James King... ssn: 287-85-3113, edad: 84, temperatura: 36.3, ritmo cardiaco: 106, presión arterial: 182, dispositivo: 48415742
+[31/03/2022 13:26:44]: James King... ssn: 287-85-3113, edad: 84, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:26:50]: James King... ssn: 287-85-3113, edad: 84, temperatura: 34.0, ritmo cardiaco: 145, presión arterial: 167, dispositivo: 48415742
+[31/03/2022 13:26:55]: James King... ssn: 287-85-3113, edad: 84, temperatura: 36.6, ritmo cardiaco: 67, presión arterial: 150, dispositivo: 48415742
+[31/03/2022 13:26:55]: James King... ssn: 287-85-3113, edad: 84, SE HA DETECTADO UNA CAIDA

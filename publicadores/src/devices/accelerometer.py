@@ -45,7 +45,7 @@ class Accelerometer:
         de la persona en un determinado momento
         """
         
-        self.ejeX = random.randint(-20,20)
-        self.ejeY = random.randint(0,10)
-        self.ejeZ = random.randint(-20,20)
+        self.ejeX = random.randint(-50,50)
+        self.ejeY = random.randint(-50,50)
+        self.ejeZ = random.randint(-50,50)
         

@@ -95,6 +95,8 @@ class Record:
         data = json.loads(body.decode("utf-8"))
         record_file = open (f"./records/{data['ssn']}.txt",'a')
         record_file.write(f"\n[{data['wearable']['date']}]: {data['name']} {data['last_name']}... ssn: {data['ssn']}, edad: {data['age']}, temperatura: {round(data['wearable']['temperature'], 1)}, ritmo cardiaco: {data['wearable']['heart_rate']}, presión arterial: {data['wearable']['blood_pressure']}, dispositivo: {data['wearable']['id']}")
+        if (data['accelerometer']['ejeY'] < -10 and (data['accelerometer']['ejeX'] < -10 or data['accelerometer']['ejeZ'] < -10)) or (data['accelerometer']['ejeY'] >20 and (data['accelerometer']['ejeX'] > 25 or data['accelerometer']['ejeZ'] > 25)):
+            record_file.write(f"\n[{data['wearable']['date']}]: {data['name']} {data['last_name']}... ssn: {data['ssn']}, edad: {data['age']}, SE HA DETECTADO UNA CAIDA")
         record_file.close()
         time.sleep(1)
         ch.basic_ack(delivery_tag=method.delivery_tag)

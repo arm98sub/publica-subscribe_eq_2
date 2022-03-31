@@ -46,8 +46,8 @@ if __name__ == '__main__':
             # Nota: Esto requiere incluir un sensor de acelerómetro que será asignado a cada uno de los adultos mayores para 
             # detectar la posición en la que se encuentran durante el día. Esto permitirá detectar caídas.
 
-            if patient.accelerometer.ejeY <= 20 and (patient.accelerometer.ejeX <= 20 or patient.accelerometer.ejeZ <= 20):
-                print('Ya se cayó el paciente!!! ayudaaaaaaaaaaaaaaaaa :O')
+            if (patient.accelerometer.ejeY < -10 and (patient.accelerometer.ejeX < -10 or patient.accelerometer.ejeZ < -10)) or (patient.accelerometer.ejeY >20 and (patient.accelerometer.ejeX > 25 or patient.accelerometer.ejeZ > 25)):
+                print('Caida detectada, notificando al personal')
                 publish('notifier', patient.to_json())
             print()
             print("actualizando expediente...")

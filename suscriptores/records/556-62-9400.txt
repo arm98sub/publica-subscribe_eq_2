@@ -1,0 +1,26 @@
+
+[31/03/2022 13:25:08]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 37.2, ritmo cardiaco: 71, presión arterial: 113, dispositivo: 57957384
+[31/03/2022 13:25:14]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 34.5, ritmo cardiaco: 93, presión arterial: 142, dispositivo: 57957384
+[31/03/2022 13:25:20]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 37.5, ritmo cardiaco: 70, presión arterial: 137, dispositivo: 57957384
+[31/03/2022 13:25:26]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 38.3, ritmo cardiaco: 137, presión arterial: 153, dispositivo: 57957384
+[31/03/2022 13:25:32]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 34.2, ritmo cardiaco: 127, presión arterial: 182, dispositivo: 57957384
+[31/03/2022 13:25:37]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 35.9, ritmo cardiaco: 68, presión arterial: 132, dispositivo: 57957384
+[31/03/2022 13:25:43]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 36.0, ritmo cardiaco: 117, presión arterial: 181, dispositivo: 57957384
+[31/03/2022 13:25:49]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 35.4, ritmo cardiaco: 72, presión arterial: 197, dispositivo: 57957384
+[31/03/2022 13:25:55]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 34.5, ritmo cardiaco: 147, presión arterial: 160, dispositivo: 57957384
+[31/03/2022 13:25:55]: Kayla Roach... ssn: 556-62-9400, edad: 75, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:26:00]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 33.7, ritmo cardiaco: 117, presión arterial: 162, dispositivo: 57957384
+[31/03/2022 13:26:06]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 35.1, ritmo cardiaco: 134, presión arterial: 194, dispositivo: 57957384
+[31/03/2022 13:26:12]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 38.9, ritmo cardiaco: 114, presión arterial: 170, dispositivo: 57957384
+[31/03/2022 13:26:17]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 34.4, ritmo cardiaco: 113, presión arterial: 113, dispositivo: 57957384
+[31/03/2022 13:26:23]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 34.8, ritmo cardiaco: 117, presión arterial: 161, dispositivo: 57957384
+[31/03/2022 13:26:23]: Kayla Roach... ssn: 556-62-9400, edad: 75, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:26:29]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 35.3, ritmo cardiaco: 129, presión arterial: 120, dispositivo: 57957384
+[31/03/2022 13:26:29]: Kayla Roach... ssn: 556-62-9400, edad: 75, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:26:35]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 33.1, ritmo cardiaco: 129, presión arterial: 177, dispositivo: 57957384
+[31/03/2022 13:26:40]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 37.6, ritmo cardiaco: 147, presión arterial: 117, dispositivo: 57957384
+[31/03/2022 13:26:40]: Kayla Roach... ssn: 556-62-9400, edad: 75, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:26:46]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 35.5, ritmo cardiaco: 69, presión arterial: 147, dispositivo: 57957384
+[31/03/2022 13:26:52]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 34.4, ritmo cardiaco: 63, presión arterial: 191, dispositivo: 57957384
+[31/03/2022 13:26:58]: Kayla Roach... ssn: 556-62-9400, edad: 75, temperatura: 35.4, ritmo cardiaco: 121, presión arterial: 150, dispositivo: 57957384
+[31/03/2022 13:26:58]: Kayla Roach... ssn: 556-62-9400, edad: 75, SE HA DETECTADO UNA CAIDA

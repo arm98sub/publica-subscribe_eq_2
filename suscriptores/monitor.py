@@ -98,6 +98,13 @@ class Monitor:
         print(f"Hora de suministrar:\n {data['timer']['medicine']}, dosis: {data['timer']['dosis']}")
         print()
         time.sleep(1)
+
+        if (data['accelerometer']['ejeY'] < -10 and (data['accelerometer']['ejeX'] < -10 or data['accelerometer']['ejeZ'] < -10)) or (data['accelerometer']['ejeY'] >20 and (data['accelerometer']['ejeX'] > 25 or data['accelerometer']['ejeZ'] > 25)):
+            print('ADVERTENCIA!!!')
+            print(f"[{data['wearable']['date']}]: asistir al paciente {data['name']} {data['last_name']}... con wearable {data['wearable']['id']}")
+            print(f"ssn: {data['ssn']}, edad: {data['age']}, SE HA DETECTADO UNA CAIDA")
+            print()
+            time.sleep(1)
         ch.basic_ack(delivery_tag=method.delivery_tag)
 
 if __name__ == '__main__':

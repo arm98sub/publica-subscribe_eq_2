@@ -1,0 +1,29 @@
+
+[31/03/2022 13:25:07]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 33.5, ritmo cardiaco: 107, presión arterial: 132, dispositivo: 94092992
+[31/03/2022 13:25:13]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 35.6, ritmo cardiaco: 73, presión arterial: 123, dispositivo: 94092992
+[31/03/2022 13:25:19]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 36.8, ritmo cardiaco: 114, presión arterial: 116, dispositivo: 94092992
+[31/03/2022 13:25:25]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 38.0, ritmo cardiaco: 79, presión arterial: 146, dispositivo: 94092992
+[31/03/2022 13:25:25]: Spencer Maynard... ssn: 794-74-2988, edad: 62, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:25:30]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 33.8, ritmo cardiaco: 88, presión arterial: 114, dispositivo: 94092992
+[31/03/2022 13:25:36]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 35.1, ritmo cardiaco: 91, presión arterial: 195, dispositivo: 94092992
+[31/03/2022 13:25:36]: Spencer Maynard... ssn: 794-74-2988, edad: 62, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:25:42]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 37.5, ritmo cardiaco: 103, presión arterial: 141, dispositivo: 94092992
+[31/03/2022 13:25:42]: Spencer Maynard... ssn: 794-74-2988, edad: 62, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:25:48]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 33.2, ritmo cardiaco: 136, presión arterial: 149, dispositivo: 94092992
+[31/03/2022 13:25:53]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 37.3, ritmo cardiaco: 85, presión arterial: 125, dispositivo: 94092992
+[31/03/2022 13:25:59]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 35.7, ritmo cardiaco: 132, presión arterial: 140, dispositivo: 94092992
+[31/03/2022 13:26:05]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 34.1, ritmo cardiaco: 101, presión arterial: 122, dispositivo: 94092992
+[31/03/2022 13:26:05]: Spencer Maynard... ssn: 794-74-2988, edad: 62, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:26:11]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 35.2, ritmo cardiaco: 126, presión arterial: 122, dispositivo: 94092992
+[31/03/2022 13:26:16]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 33.6, ritmo cardiaco: 118, presión arterial: 104, dispositivo: 94092992
+[31/03/2022 13:26:16]: Spencer Maynard... ssn: 794-74-2988, edad: 62, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:26:22]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 37.1, ritmo cardiaco: 137, presión arterial: 129, dispositivo: 94092992
+[31/03/2022 13:26:22]: Spencer Maynard... ssn: 794-74-2988, edad: 62, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:26:28]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 33.9, ritmo cardiaco: 145, presión arterial: 162, dispositivo: 94092992
+[31/03/2022 13:26:28]: Spencer Maynard... ssn: 794-74-2988, edad: 62, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:26:34]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 34.4, ritmo cardiaco: 99, presión arterial: 165, dispositivo: 94092992
+[31/03/2022 13:26:39]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 37.1, ritmo cardiaco: 140, presión arterial: 147, dispositivo: 94092992
+[31/03/2022 13:26:45]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 36.3, ritmo cardiaco: 136, presión arterial: 145, dispositivo: 94092992
+[31/03/2022 13:26:51]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 33.2, ritmo cardiaco: 149, presión arterial: 127, dispositivo: 94092992
+[31/03/2022 13:26:57]: Spencer Maynard... ssn: 794-74-2988, edad: 62, temperatura: 36.2, ritmo cardiaco: 147, presión arterial: 137, dispositivo: 94092992
+[31/03/2022 13:26:57]: Spencer Maynard... ssn: 794-74-2988, edad: 62, SE HA DETECTADO UNA CAIDA

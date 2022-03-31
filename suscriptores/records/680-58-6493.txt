@@ -1,0 +1,26 @@
+
+[31/03/2022 13:25:04]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 38.7, ritmo cardiaco: 143, presión arterial: 147, dispositivo: 81447271
+[31/03/2022 13:25:10]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 37.2, ritmo cardiaco: 67, presión arterial: 154, dispositivo: 81447271
+[31/03/2022 13:25:10]: Edward Murphy... ssn: 680-58-6493, edad: 110, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:25:15]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 35.9, ritmo cardiaco: 103, presión arterial: 124, dispositivo: 81447271
+[31/03/2022 13:25:21]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 38.6, ritmo cardiaco: 103, presión arterial: 196, dispositivo: 81447271
+[31/03/2022 13:25:27]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 34.4, ritmo cardiaco: 73, presión arterial: 144, dispositivo: 81447271
+[31/03/2022 13:25:33]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 34.3, ritmo cardiaco: 116, presión arterial: 132, dispositivo: 81447271
+[31/03/2022 13:25:39]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 34.1, ritmo cardiaco: 109, presión arterial: 196, dispositivo: 81447271
+[31/03/2022 13:25:44]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 35.7, ritmo cardiaco: 143, presión arterial: 164, dispositivo: 81447271
+[31/03/2022 13:25:50]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 33.2, ritmo cardiaco: 124, presión arterial: 133, dispositivo: 81447271
+[31/03/2022 13:25:56]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 35.9, ritmo cardiaco: 73, presión arterial: 189, dispositivo: 81447271
+[31/03/2022 13:26:01]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 38.2, ritmo cardiaco: 134, presión arterial: 166, dispositivo: 81447271
+[31/03/2022 13:26:07]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 33.5, ritmo cardiaco: 144, presión arterial: 167, dispositivo: 81447271
+[31/03/2022 13:26:07]: Edward Murphy... ssn: 680-58-6493, edad: 110, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:26:13]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 38.2, ritmo cardiaco: 102, presión arterial: 138, dispositivo: 81447271
+[31/03/2022 13:26:19]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 38.4, ritmo cardiaco: 102, presión arterial: 197, dispositivo: 81447271
+[31/03/2022 13:26:24]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 33.6, ritmo cardiaco: 99, presión arterial: 102, dispositivo: 81447271
+[31/03/2022 13:26:30]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 36.3, ritmo cardiaco: 66, presión arterial: 149, dispositivo: 81447271
+[31/03/2022 13:26:30]: Edward Murphy... ssn: 680-58-6493, edad: 110, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:26:36]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 38.6, ritmo cardiaco: 111, presión arterial: 179, dispositivo: 81447271
+[31/03/2022 13:26:42]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 36.2, ritmo cardiaco: 110, presión arterial: 127, dispositivo: 81447271
+[31/03/2022 13:26:42]: Edward Murphy... ssn: 680-58-6493, edad: 110, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:26:47]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 36.9, ritmo cardiaco: 81, presión arterial: 114, dispositivo: 81447271
+[31/03/2022 13:26:47]: Edward Murphy... ssn: 680-58-6493, edad: 110, SE HA DETECTADO UNA CAIDA
+[31/03/2022 13:26:53]: Edward Murphy... ssn: 680-58-6493, edad: 110, temperatura: 38.3, ritmo cardiaco: 94, presión arterial: 127, dispositivo: 81447271
