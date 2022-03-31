@@ -108,10 +108,13 @@ class Notifier:
         time.sleep(1)
         
         # Para la notificación de caídas
-        if (data['accelerometer']['ejeY'] < -10 and (data['accelerometer']['ejeX'] < -10 or data['accelerometer']['ejeZ'] < -10)) or (data['accelerometer']['ejeY'] >20 and (data['accelerometer']['ejeX'] > 25 or data['accelerometer']['ejeZ'] > 25)):
-                message = f"\n[{data['wearable']['date']}]: {data['name']} {data['last_name']}... ssn: {data['ssn']}, edad: {data['age']}, SE HA DETECTADO UNA CAIDA"
-                bot = telepot.Bot(self.token)
-                bot.sendMessage(self.chat_id, message)
+        ejeY = data['accelerometer']['ejeY']
+        ejeX = data['accelerometer']['ejeX']
+        ejeZ = data['accelerometer']['ejeZ']
+        if (ejeY < -10 and (ejeX < -10 or ejeZ < -10)) or (ejeY >20 and (ejeX > 25 or ejeZ > 25)):
+            message = f"\n[{data['wearable']['date']}]: {data['name']} {data['last_name']}... ssn: {data['ssn']}, edad: {data['age']}, SE HA DETECTADO UNA CAIDA"
+            bot = telepot.Bot(self.token)
+            bot.sendMessage(self.chat_id, message)
         time.sleep(1)
         ch.basic_ack(delivery_tag=method.delivery_tag)
 
