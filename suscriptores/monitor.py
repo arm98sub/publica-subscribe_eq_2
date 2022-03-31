@@ -92,12 +92,12 @@ class Monitor:
         print(f"[{data['wearable']['date']}]: asistir al paciente {data['name']} {data['last_name']}... con wearable {data['wearable']['id']}")
         print(f"ssn: {data['ssn']}, edad: {data['age']}, temperatura: {round(data['wearable']['temperature'], 1)}, ritmo cardiaco: {data['wearable']['heart_rate']}, presión arterial: {data['wearable']['blood_pressure']}, dispositivo: {data['wearable']['id']}")
         print()
-        time.sleep(2)
+        time.sleep(1)
         # Agregado para TAREA 1 
         print("AVISO DE TOMA DE MEDICAMENTO")
         print(f"Hora de suministrar:\n {data['timer']['medicine']}, dosis: {data['timer']['dosis']}")
         print()
-        time.sleep(2)
+        time.sleep(1)
         ch.basic_ack(delivery_tag=method.delivery_tag)
 
 if __name__ == '__main__':

@@ -70,8 +70,8 @@ class Notifier:
 
     def __init__(self):
         self.topic = "notifier"
-        self.token = ""
-        self.chat_id = ""
+        self.token = "5237657526:AAHktASntqNlv4UgRHMdOxSEnqlif2BjhVw"
+        self.chat_id = "-667641027"
 
     def suscribe(self):
         print("Inicio de gestión de notificaciones...")
@@ -95,6 +95,25 @@ class Notifier:
         if self.token and self.chat_id:
             data = json.loads(body.decode("utf-8"))
             message = f"ADVERTENCIA!!!\n[{data['wearable']['date']}]: asistir al paciente {data['name']} {data['last_name']}...\nssn: {data['ssn']}, edad: {data['age']}, temperatura: {round(data['wearable']['temperature'], 1)}, ritmo cardiaco: {data['wearable']['heart_rate']}, presión arterial: {data['wearable']['blood_pressure']}, dispositivo: {data['wearable']['id']}"
+            bot = telepot.Bot(self.token)
+            bot.sendMessage(self.chat_id, message)
+        time.sleep(1)
+        # para la notificacion de medicamentos
+        numero_random = int(data['timer']['numero_random'])
+        if numero_random%8 == 0:
+            print(" enviando notificacion de toma de medicamento...")
+            message = f"TOMA DE MEDICAMENTO!!!\n Suministrar {data['timer']['medicine']} de {data['timer']['dosis']} al paciente {data['name']} {data['last_name']} "
+            bot = telepot.Bot(self.token)
+            bot.sendMessage(self.chat_id, message)
+        time.sleep(1)
+        
+        # Para la notificación de caídas
+        ejeX = int(data['accelerometer']['ejeX'])
+        ejeY = int(data['accelerometer']['ejeY'])
+        ejeZ = int(data['accelerometer']['ejeZ'])
+        if ejeX > 1 and ejeY > 1 and ejeZ < 1:
+            print("enviando notificacion de alerta de caída...")
+            message = f"ALERTA SOBRE CAÍDA!!!\n El paciente {data['name']} {data['last_name']} ha sufrido una caída"
             bot = telepot.Bot(self.token)
             bot.sendMessage(self.chat_id, message)
         time.sleep(1)
