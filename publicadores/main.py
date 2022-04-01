@@ -34,18 +34,13 @@ if __name__ == '__main__':
                 print("anomalía detectada, notificando signos vitales...")
                 publish('notifier', patient.to_json())
             print()
-            # Agregado por Alan para la tarea 1
+            # Para alerta de toma de medicamento
             if patient.timer.numero_random%8 == 0:
                 print('Hora de suministrar ', patient.timer.medicine, ' dosis:', patient.timer.dosis)
                 publish('notifier', patient.to_json())
             print()
             
-            # Para la implementación de un acelerómetro simulado es importante considerar que 
-            # estos dispositivos detectan la fuerza de aceleración de un cuerpo en 1, 2 o 3 ejes.
-            
-            # Nota: Esto requiere incluir un sensor de acelerómetro que será asignado a cada uno de los adultos mayores para 
-            # detectar la posición en la que se encuentran durante el día. Esto permitirá detectar caídas.
-
+            #Para alerta de posible caída
             if (patient.accelerometer.ejeY < -10 and (patient.accelerometer.ejeX < -10 or patient.accelerometer.ejeZ < -10)) or (patient.accelerometer.ejeY >20 and (patient.accelerometer.ejeX > 25 or patient.accelerometer.ejeZ > 25)):
                 print('Caida detectada, notificando al personal')
                 publish('notifier', patient.to_json())
