@@ -93,13 +93,19 @@ class Monitor:
         print(f"ssn: {data['ssn']}, edad: {data['age']}, temperatura: {round(data['wearable']['temperature'], 1)}, ritmo cardiaco: {data['wearable']['heart_rate']}, presión arterial: {data['wearable']['blood_pressure']}, dispositivo: {data['wearable']['id']}")
         print()
         time.sleep(1)
-        # Agregado para TAREA 1 
-        print("AVISO DE TOMA DE MEDICAMENTO")
-        print(f"Hora de suministrar:\n {data['timer']['medicine']}, dosis: {data['timer']['dosis']}")
-        print()
-        time.sleep(1)
+        # Alerta para toma de medicamentos
+        numero_random = data['timer']['numero_random']
+        if numero_random%8 ==0:
+            print("AVISO DE TOMA DE MEDICAMENTO")
+            print(f"Hora de suministrar:\n {data['timer']['medicine']}, dosis: {data['timer']['dosis']}")
+            print()
+            time.sleep(1)
 
-        if (data['accelerometer']['ejeY'] < -10 and (data['accelerometer']['ejeX'] < -10 or data['accelerometer']['ejeZ'] < -10)) or (data['accelerometer']['ejeY'] >20 and (data['accelerometer']['ejeX'] > 25 or data['accelerometer']['ejeZ'] > 25)):
+        # Alerta para toma de medicamentos
+        ejeY = data['accelerometer']['ejeY']
+        ejeX = data['accelerometer']['ejeX']
+        ejeZ = data['accelerometer']['ejeZ']
+        if (ejeY< -10 and (ejeX < -10 or ejeZ < -10)) or (ejeY >20 and (ejeX > 25 or ejeZ > 25)):
             print('ADVERTENCIA!!!')
             print(f"[{data['wearable']['date']}]: asistir al paciente {data['name']} {data['last_name']}... con wearable {data['wearable']['id']}")
             print(f"ssn: {data['ssn']}, edad: {data['age']}, SE HA DETECTADO UNA CAIDA")
